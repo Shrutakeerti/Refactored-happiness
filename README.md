@@ -120,7 +120,7 @@ uvicorn main:app --reload
 
 After successful processing, the filled Excel file will be saved at:
 
-`D:\Prodgen Assignment\output\filled_template.xlsx`
+`file path\output\filled_template.xlsx`
 
 This output file maintains the original Excel structure, but with semantically matched values filled in using LLM-based extraction.
 ### Author - Shrutakeerti Datta.
